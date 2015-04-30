@@ -1,0 +1,8 @@
+Accepts Strings ending in a 1 or even number of 0's after the last 1.
+3
+01
+0
+1,#
+0,0,1
+1,2,1
+2,1,1

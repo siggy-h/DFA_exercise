@@ -1,0 +1,7 @@
+This DFA accepts the empty string or strings ending in a 0.
+2
+01
+0
+0,#
+0,0,1
+1,0,1
